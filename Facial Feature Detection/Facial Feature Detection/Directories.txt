@@ -1,0 +1,6 @@
+Directories
+Sample_Video.mp4
+Clip/
+Datamodel/Normal_Blink.txt
+Datamodel/Deliberate_Blink.txt
+

@@ -1,0 +1,9 @@
+﻿  DCT.cpp
+C:\Users\Craig\Documents\CS_Project_FFR\Facial Feature Detection\Facial Feature Detection\DCT.cpp(7,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Craig\Documents\CS_Project_FFR\Facial Feature Detection\Facial Feature Detection\DCT.cpp(13,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 510 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Facial Feature Detection.vcxproj -> C:\Users\Craig\Documents\CS_Project_FFR\Facial Feature Detection\x64\Release\Facial Feature Detection.exe
